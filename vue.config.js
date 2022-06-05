@@ -8,6 +8,7 @@ function resolve(dir) {
 }
 const webpack = require('webpack')
 module.exports = {
+  publicPath:"./",
   configureWebpack: (config) => {
     config.plugins.push(
       AutoImport({
