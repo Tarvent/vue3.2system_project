@@ -5,7 +5,7 @@
     </span>
     <template #dropdown>
       <el-dropdown-menu>
-        <el-dropdown-item @click="logout">退出</el-dropdown-item>
+        <el-dropdown-item @click="logout">logout</el-dropdown-item>
       </el-dropdown-menu>
     </template>
   </el-dropdown>
@@ -17,7 +17,7 @@ import { useStore } from 'vuex'
 const store = useStore()
 
 const squareUrl = ref(
-  'https://img0.baidu.com/it/u=1056811702,4111096278&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500'
+  'https://img0.baidu.com/it/u=1701048552,3576060535&fm=253&fmt=auto&app=138&f=JPEG?w=400&h=400'
 )
 
 const logout = () => {
