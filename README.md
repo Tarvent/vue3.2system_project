@@ -1,5 +1,5 @@
 # vue_3.2
-[技術スタック]
+## 技術スタック
 vue3.2, vue-cli, element.ui , driver.js , webpack
 
 ## Project setup
@@ -15,6 +15,6 @@ npm run serve
 Untill this moment (5/31)
 http://120.78.137.246:8888/api/private/v1
 
-#登録
+# 登録
 admin
 123456
