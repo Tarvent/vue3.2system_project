@@ -1,23 +1,20 @@
 # vue_3.2
+[技術スタック]
+vue3.2, vue-cli, element.ui , driver.js , webpack
 
 ## Project setup
-```
-yarn install
-```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+install vue3
+install vue-cli
 
-### Compiles and minifies for production
 ```
-yarn build
+npm run serve
 ```
+## Available backend interfaces(2022.06)
 
-### Lints and fixes files
-```
-yarn lint
-```
+Untill this moment (5/31)
+http://120.78.137.246:8888/api/private/v1
 
-
+#登録
+admin
+123456
