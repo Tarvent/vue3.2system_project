@@ -1,6 +1,10 @@
-# vue_3.2
+# Vue3.2の新しい特性を勉強するために、バック管理システムを作り
 ## 技術スタック
 vue3.2, vue-cli, element.ui , driver.js , webpack
+## 工夫点
+1.Commitlintを導入してgitのコミットメッセージ）をしっかり書きまして、強制コードフォーマットをしました（git-cz以外の命令の禁止）。
+
+2.element.uiの導入、フォーム検証、登録検証、Vue Router、ランディングページ、Rails 国際化（i18n）の導入、言語の切り替え
 
 ## Project setup
 
