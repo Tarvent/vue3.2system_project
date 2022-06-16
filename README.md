@@ -7,8 +7,10 @@ vue3.2, vue-cli, element.ui , driver.js , webpack
 2.フロントエンドページ、element.uiの導入、フォーム検証、登録検証、Vue Router、ランディングページ、Rails 国際化（i18n）の導入、言語の切り替え、他の動画効果
 
 ## Project setup
-
+````
 install vue3
+````
+````
 install vue-cli
 
 ```
