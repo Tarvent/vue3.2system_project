@@ -21,7 +21,8 @@ npm run serve
 ## Available backend interfaces(2022.06)
 
 Untill this moment (5/31)
-http://120.78.137.246:8888/api/private/v1　　（6/12　今使うできい）
+http://120.78.137.246:8888/api/private/v1　　
+（6/12　今使うできない、自分でバックエンドを構築しています）
  
 # 登録
 admin
